@@ -1,0 +1,13 @@
+package javaPractice;
+
+/*)write a program To count number of words in a given sentence.
+i/p "Hello world"
+o/p = 2 words */
+
+public class WordCount {
+
+	public static void main(String[] args) {
+
+	}
+
+}

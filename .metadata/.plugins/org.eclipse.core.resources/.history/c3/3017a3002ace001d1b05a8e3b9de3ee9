@@ -1,0 +1,13 @@
+package com.java.basic;
+import java.util.*;
+
+
+public class Hashm{
+	
+	public static void main(String[] args) {
+		
+	
+	Hashm<String,Integer> num = new Hashm<String,Integer>();
+
+}
+}

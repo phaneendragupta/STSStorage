@@ -1,0 +1,16 @@
+package javaPractice;
+
+//Write a java program for palindrome in normal way as well as using Command line arguments.
+//i/p="MADAM"
+//o/p MADAM is a Pallendrome
+
+public class Palindrome {
+	
+	 public static void main(String[] args) {
+		
+		 
+		 
+		 
+	}
+
+}

@@ -1,0 +1,14 @@
+package com.java.basic;
+import java.util.*;
+
+
+public class Hashm{
+	
+	public static void main(String[] args) {
+		
+	
+		HashMap<String,Integer> num = new HashMap<String,Integer>();
+		
+
+}
+}

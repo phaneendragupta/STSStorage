@@ -1,0 +1,20 @@
+package com.java.springboot.contoller;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.java.springboot.entity.Student;
+
+@RestController
+public class StudentController {
+  
+	@GetMapping
+	public Student getstudent() {
+		Student s= new Student(1,"Ram","Shetty");
+		return s;
+		
+		
+	}
+	
+	
+}

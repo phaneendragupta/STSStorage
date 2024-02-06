@@ -1,0 +1,24 @@
+package StreamsExrPkg;
+
+import java.util.Comparator;
+import java.util.List;
+import java.util.stream.Collectors;
+
+public class StrApp {
+
+
+		public static void main(String[] args) {
+		
+			List<String> S= List.of("akash","charan","Ganesh","gaurav","Srikar");
+		
+		List<String> L1=S.stream()
+             .filter(n->n.startsWith("g")||n.startsWith("G"))
+             .map(s->s.toLowerCase())
+             .collect(Collectors.toList());
+			
+		System.out.println(L1);
+			
+		}
+	
+}
+	

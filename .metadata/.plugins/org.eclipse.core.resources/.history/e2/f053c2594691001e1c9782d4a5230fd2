@@ -1,0 +1,18 @@
+package StreamsExrPkg;
+
+import java.util.List;
+
+public class StrApp {
+
+
+		public static void main(String[] args) {
+		
+			List<String> temp= List.of("a","c","g","h","x");
+		
+		temp.stream()
+		.sorted()
+		.forEach(x -> System.out.println(x));
+		
+		}
+	
+}

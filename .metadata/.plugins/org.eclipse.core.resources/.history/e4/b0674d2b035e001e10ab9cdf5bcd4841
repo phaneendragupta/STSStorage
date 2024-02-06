@@ -1,0 +1,32 @@
+package com.weather.forecast.demo;
+
+import java.util.List;
+
+import lombok.Data;
+
+
+
+@Data
+
+public class Role {
+
+		private Long id;
+		private String user_name;
+		private String Gmail;
+		private List<User> users;
+		
+		
+		
+		public Role(Long id, String user_name, String gmail, List<User> users) {
+			super();
+			this.id = id;
+			this.user_name = user_name;
+			Gmail = gmail;
+			this.users = users;
+		}
+
+		
+
+	}
+
+

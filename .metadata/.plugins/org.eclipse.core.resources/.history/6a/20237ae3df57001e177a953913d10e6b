@@ -1,0 +1,13 @@
+package StreamsExr;
+
+//Given a list of integers, find the total number of elements present in the list
+//using Stream functions?
+
+public class NumOfElements {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

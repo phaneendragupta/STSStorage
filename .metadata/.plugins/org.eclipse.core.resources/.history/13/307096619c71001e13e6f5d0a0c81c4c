@@ -1,0 +1,10 @@
+package StreamsExr;
+
+public class Strlength {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

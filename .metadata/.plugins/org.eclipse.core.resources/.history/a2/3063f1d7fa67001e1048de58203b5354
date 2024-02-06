@@ -1,0 +1,29 @@
+package javaPractice;
+
+import java.util.Scanner;
+
+/*)write a program To count number of words in a given sentence.
+i/p "Hello world"
+o/p = 2 words */
+
+public class WordCount {
+
+	public static void main(String[] args) {
+		
+		Scanner s=new Scanner(System.in);
+		
+	String S1=s.next();
+	int n=S1.length();
+	int t;
+	for(int i=0;i<n;i++) {
+		if(S1.charAt(i)==' ') {
+			t++;
+			
+		}
+		
+	}
+	System.out.println("t+1");
+
+	}
+
+}

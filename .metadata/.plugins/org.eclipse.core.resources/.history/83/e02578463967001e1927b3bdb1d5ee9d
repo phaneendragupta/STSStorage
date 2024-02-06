@@ -1,0 +1,8 @@
+package javaPractice;
+
+/*write a program to a sort a Array of String in ascending oreder alphabetially
+i/p String s=["Capgemini","Accenture","TCS","EPAM"]
+o/p =[Accenture,Capgemini,EPAM,TCS]*/
+public class StrSort {
+
+}

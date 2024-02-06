@@ -1,0 +1,9 @@
+package StreamsExr;
+
+public class EvenNumStrms {
+
+	public static void main(String[] args) {
+
+	}
+
+}

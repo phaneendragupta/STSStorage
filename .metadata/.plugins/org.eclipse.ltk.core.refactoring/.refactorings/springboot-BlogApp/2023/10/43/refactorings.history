@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.blog.app.demo.payload.PostDTO&apos; to &apos;PostDto&apos;&#x0D;&#x0A;- Original project: &apos;springboot-BlogApp&apos;&#x0D;&#x0A;- Original element: &apos;com.blog.app.demo.payload.PostDTO&apos;&#x0D;&#x0A;- Renamed element: &apos;com.blog.app.demo.payload.PostDto&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;PostDTO&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.blog.app.demo.payload{PostDTO.java[PostDTO" matchStrategy="1" name="PostDto" qualified="false" references="true" similarDeclarations="false" stamp="1698238272827" textual="false" version="1.0"/>
+</session>

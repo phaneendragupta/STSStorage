@@ -1,0 +1,10 @@
+package javaPractice.FieldsandSalary;
+
+public class Fields {
+	
+	private int id;
+	private String name;
+
+	private int salary;
+
+}

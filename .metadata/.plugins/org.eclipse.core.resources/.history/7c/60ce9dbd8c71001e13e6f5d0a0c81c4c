@@ -1,0 +1,12 @@
+package StreamsExr;
+
+/*Q7 Given a String, find the first non-repeated character in it using Stream functions?
+*/
+public class StrConcat {
+
+	public static void main(String[] args) {
+		
+	
+	}
+
+}

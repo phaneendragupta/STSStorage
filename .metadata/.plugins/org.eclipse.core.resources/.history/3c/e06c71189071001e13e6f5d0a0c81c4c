@@ -1,0 +1,17 @@
+package StreamsExr;
+
+import java.util.Arrays;
+import java.util.List;
+
+
+public class StrConcat {
+
+	public static void main(String[] args) {
+		
+
+		 List<String> list1 = Arrays.asList("Java", "8", "vdg");
+		 List<String> list2 = Arrays.asList("explained", "through", "programs");
+
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;Area.Areas.java&apos; to &apos;Circle.java&apos;&#x0D;&#x0A;- Original project: &apos;Area_in_over_LoadingandRiding&apos;&#x0D;&#x0A;- Original element: &apos;Area.Areas.java&apos;&#x0D;&#x0A;- Renamed element: &apos;Area.Circle.java&apos;" description="Rename compilation unit &apos;Areas.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;Area{Areas.java" name="Circle.java" references="false" stamp="1676962303955" version="1.0"/>
+</session>

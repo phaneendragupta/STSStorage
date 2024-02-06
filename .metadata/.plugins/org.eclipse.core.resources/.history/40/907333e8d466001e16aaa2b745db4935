@@ -1,0 +1,11 @@
+package javaPractice;
+
+/*5) Write a program to get the occurrence of a specific letter in a given String.
+i/p="Hello"
+i/p=l
+o/p=2 
+*/
+public class SpecOccNum {
+	
+
+}

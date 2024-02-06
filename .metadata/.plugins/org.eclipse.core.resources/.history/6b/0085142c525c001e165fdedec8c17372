@@ -1,0 +1,5 @@
+package com.java.springboot.demo;
+
+public class Course {
+
+}

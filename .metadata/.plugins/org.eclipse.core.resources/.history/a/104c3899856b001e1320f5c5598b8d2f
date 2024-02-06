@@ -1,0 +1,12 @@
+package StreamsExr;
+
+import java.util.Arrays;
+import java.util.List;
+
+public class PrintP {
+
+	public static void main(String[] args) {
+      List<String> L1= Arrays.asList("Raghav","Parvezh","pavan","charan","Phani","shekar");
+	}
+
+}

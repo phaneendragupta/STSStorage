@@ -1,0 +1,16 @@
+package com.weather.forecast.demo;
+
+import java.util.List;
+
+public class Role {
+
+		private Long id;
+		private String user_name;
+		private String Gmail;
+		private List<Role> users;
+
+		
+
+	}
+
+

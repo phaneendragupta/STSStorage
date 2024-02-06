@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Area_in_over_LoadingandRiding&apos;" deleteContents="true" description="Delete resource &apos;Area_in_over_LoadingandRiding&apos;" element1="/Area_in_over_LoadingandRiding" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1676442333733"/>
+</session>

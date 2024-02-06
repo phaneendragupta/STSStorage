@@ -1,0 +1,26 @@
+package StreamsExr;
+
+import java.util.ArrayList;
+import java.util.List;
+
+// Given a list of integers, find out all the even numbers exist in 
+//the list using Stream functions?
+
+public class EvenNumStrms {
+	public static void main(String[] args) {
+		int b;
+
+		List<Integer> a=new ArrayList<Integer>();
+		a.add(1);
+		a.add(4);
+		a.add(3);
+		a.add(2);
+		a.add(5);
+		
+//	  a.stream().filter(n -> n%2==0).forEach(i -> System.out.println(i));
+		  a.stream().map(m -> m^3).filter(n -> n>=50).forEach(i -> System.out.println(i));
+
+
+	}
+
+}

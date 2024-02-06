@@ -1,0 +1,32 @@
+package com.weather.forecast.demo;
+
+import java.util.List;
+
+import org.springframework.boot.autoconfigure.domain.EntityScan;
+
+import lombok.Data;
+
+
+
+@Data
+@Entity
+public class Role {
+//
+//		@Id
+//		@GeneratedValue(strategy = GenerationType.IDENTITY)
+		private Integer user_id;
+		
+		private String user_fname;
+		private String user_lname;
+		private String user_email;
+		private String user_pass;
+		private String user_mobile;
+		
+		
+		}
+
+		
+
+	}
+
+

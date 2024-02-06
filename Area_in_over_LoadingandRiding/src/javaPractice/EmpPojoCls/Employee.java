@@ -1,0 +1,54 @@
+package javaPractice.EmpPojoCls;
+
+public class Employee {
+
+	private int empId;
+	private String empName;
+	private String department;
+	private String location;
+	
+	public int getEmpId() {
+		return empId;
+	}
+	public void setEmpId(int empId) {
+		this.empId = empId;
+	}
+	public String getEmpName() {
+		return empName;
+	}
+	public void setEmpName(String empName) {
+		this.empName = empName;
+	}
+	public String getDepartment() {
+		return department;
+	}
+	public void setDepartment(String department) {
+		this.department = department;
+	}
+	public String getLocation() {
+		return location;
+	}
+	public void setLocation(String location) {
+		this.location = location;
+	}
+	public Employee(int empId, String empName, String department, String location) {
+		super();
+		this.empId = empId;
+		this.empName = empName;
+		this.department = department;
+		this.location = location;
+	}
+	
+	@Override
+	public String toString() {
+		return "Employee [empId=" + empId + ", empName=" + empName + ", department=" + department + ", location="
+				+ location + "]";
+	}
+	
+	
+	
+	
+	
+	
+	
+}

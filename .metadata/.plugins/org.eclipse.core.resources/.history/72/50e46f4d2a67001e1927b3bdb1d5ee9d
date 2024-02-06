@@ -1,0 +1,36 @@
+package javaPractice;
+
+import java.util.Scanner;
+
+//Write a java program for palindrome in normal way as well as using Command line arguments.
+//i/p="MADAM"
+//o/p MADAM is a Pallendrome
+
+public class Palindrome {
+	
+	 public static void main(String[] args) {
+		
+		 Scanner sc=new Scanner(System.in);
+		 String S1=sc.next();
+		 int l1=S1.length();
+		  
+		 for(int i=0;i<l1;i++) {
+			 
+			 if(S1.charAt(i)==S1.charAt(l1-1-i)) {
+				 
+				 System.out.println(S1+"is a plindrome");
+			 }
+			 
+			 else {
+				 System.out.println(S1+"is not a plindrome");
+
+			 }
+			 
+		 }
+		 
+		 
+		 
+		 
+	}
+
+}

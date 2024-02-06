@@ -1,0 +1,16 @@
+package javaPractice.FieldsandSalary;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		List<Fields> A=new ArrayList<>();
+		
+		A.add(new Fields (1,"Shekar",40,000));
+		
+	}
+
+}

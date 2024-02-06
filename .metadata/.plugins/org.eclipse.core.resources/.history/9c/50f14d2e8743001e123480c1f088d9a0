@@ -1,0 +1,13 @@
+package com.bezkoder.spring.jpa.h2.model;
+
+import javax.persistence.Entity;
+
+@Entity(name = "Speakers")
+public class Speaker{
+	private Long first_name;
+	private Long last_name;
+	private Long title;
+	private Long company;
+	private Long speaker_bio;
+
+}
